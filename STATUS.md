@@ -16,7 +16,7 @@
 
 | 컴포넌트 | 상태 |
 |----------|------|
-| watch_input_pdfs.py | 미등록 |
+| watch_input_pdfs.py | 실행 중 (PID 94409) |
 | Syncthing input/pdfs/ | 미설정 |
 
 ## 최근 처리 내역
